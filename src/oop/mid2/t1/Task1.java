@@ -28,7 +28,7 @@ public class Task1 {
 
         // Create list3 using values from list1 to index into list2
         List<String> list3 = createList3(list1, list2);
-        System.out.println("list3 (before removing odd indexes): " + list3);
+        System.out.println("list3 (before removing even indexes): " + list3);
 
         // Remove elements at even indexes from list3
         removeEvenIndexElements(list3);
@@ -64,7 +64,7 @@ public class Task1 {
     }
 
     /**
-     * Removes elements at odd indexes (1, 3, 5, ...) from the given list.
+     * Removes elements at even indexes from the given list.
      * Modifies the list in-place.
      *
      * @param list The list from which to remove elements

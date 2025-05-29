@@ -46,7 +46,7 @@ Below is a sample output when running the program with the provided lists:
 
 - `list1 (integers)`: [3, 2, 3, 9, 2, 3, 8, 5, 3, 5, 2, 3, 6]
 - `list2 (strings)`: [2tpA, 9N60w, DFw, mO9g6, P2WD, 6DRX2, RTVOb, RHOY, Ct2, KRbtu, Ym5Yu, MW9, 5PPzD, kem1C, hmWJ, 9XTEQ, 12x, Qzo8]
-- `list3 (before removing odd indexes)`: [6DRX2, mO9g6, 6DRX2, Qzo8, mO9g6, 6DRX2, 9XTEQ, KRbtu, 6DRX2, KRbtu, mO9g6, 6DRX2, MW9]
+- `list3 (before removing even indexes)`: [6DRX2, mO9g6, 6DRX2, Qzo8, mO9g6, 6DRX2, 9XTEQ, KRbtu, 6DRX2, KRbtu, mO9g6, 6DRX2, MW9]
 - `list3 (after removing even indexes)`: [mO9g6, Qzo8, 6DRX2, KRbtu, KRbtu, 6DRX2]
 
 ---
