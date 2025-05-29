@@ -1,4 +1,4 @@
-# Task #1 - List Processing Progra
+# Task #1 - List Processing Program
 
 This Java project demonstrates list manipulation using integer-based indexing and safe access techniques.
 
