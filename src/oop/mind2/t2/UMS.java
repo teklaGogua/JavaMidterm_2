@@ -70,8 +70,7 @@ public class UMS {
     public static void main(String[] args) {
         UMS ums = new UMS();
         
-        // Create a sample student (replace with your actual information)
-        Student me = new Student("Your Name", "Your ID");
+        Student me = new Student("Tekla Gogua", "01101117065");
         ums.addStudent(me);
         
         // Print student data
